@@ -1,6 +1,3 @@
-# Данный скрипт предназначен для парсинга на основе ученных данных с unix ip_address'сов, создания CI и последующей загрузке в UCMDB.
-
-
 #coding=utf-8
 import re
 import logger
